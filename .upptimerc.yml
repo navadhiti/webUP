@@ -4,17 +4,31 @@ repo: webUP # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Navadhiti 
-    url: https://www.navadhiti.com
+  - name: Navadhiti
+    url: https://www.navadhiti.com/
   - name: Varitra
     url: https://varitra.com
+  - name: Barefoot Edu
+    url: https://barefootedu.com
+  - name: Karunodaya
+    url: https://karunodaya.in
+  - name: Lantern Edu Sports
+    url: https://lanternedusports.org
+  - name: Mera Gaon Meri Dunia
+    url: https://meragaonmeridunia.org
+  - name: RZamba
+    url: https://rzamba.org
+  - name: Vidhya Vidhai
+    url: https://vidhyavidhai.org
+  - name: Alag Soch
+    url: https://alagsoch.org/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: webUP.navadhiti.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://www.navadhiti.com/assets/logo.png
+  logoUrl: https://www.navadhiti.com/assets/img/logo-small.svg
   name: webUP
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   navbar:
