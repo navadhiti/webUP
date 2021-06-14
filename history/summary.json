@@ -4,36 +4,39 @@
     "url": "https://www.navadhiti.com/",
     "icon": "https://favicons.githubusercontent.com/www.navadhiti.com",
     "slug": "navadhiti",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1210,
     "timeDay": 1254,
     "timeWeek": 1242,
     "timeMonth": 1204,
     "timeYear": 1210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 4
+    }
   },
   {
     "name": "Varitra",
     "url": "https://varitra.com",
     "icon": "https://favicons.githubusercontent.com/varitra.com",
     "slug": "varitra",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 967,
     "timeDay": 925,
     "timeWeek": 947,
     "timeMonth": 926,
     "timeYear": 967,
     "dailyMinutesDown": {
+      "2021-06-14": 4,
       "2021-02-02": 39
     }
   },
@@ -42,64 +45,70 @@
     "url": "https://barefootedu.com",
     "icon": "https://favicons.githubusercontent.com/barefootedu.com",
     "slug": "barefoot-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1182,
     "timeDay": 1164,
     "timeWeek": 1185,
     "timeMonth": 1147,
     "timeYear": 1182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 3
+    }
   },
   {
     "name": "Karunodaya",
     "url": "https://karunodaya.in",
     "icon": "https://favicons.githubusercontent.com/karunodaya.in",
     "slug": "karunodaya",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 966,
     "timeDay": 959,
     "timeWeek": 954,
     "timeMonth": 928,
     "timeYear": 966,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 3
+    }
   },
   {
     "name": "Lantern Edu Sports",
     "url": "https://lanternedusports.org",
     "icon": "https://favicons.githubusercontent.com/lanternedusports.org",
     "slug": "lantern-edu-sports",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 974,
     "timeDay": 1067,
     "timeWeek": 956,
     "timeMonth": 931,
     "timeYear": 974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 2
+    }
   },
   {
     "name": "Mera Gaon Meri Dunia",
     "url": "https://meragaonmeridunia.org",
     "icon": "https://favicons.githubusercontent.com/meragaonmeridunia.org",
     "slug": "mera-gaon-meri-dunia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1188,
@@ -107,17 +116,19 @@
     "timeWeek": 1155,
     "timeMonth": 1157,
     "timeYear": 1188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 2
+    }
   },
   {
     "name": "RZamba",
     "url": "https://rzamba.org",
     "icon": "https://favicons.githubusercontent.com/rzamba.org",
     "slug": "r-zamba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 976,
@@ -125,17 +136,19 @@
     "timeWeek": 961,
     "timeMonth": 939,
     "timeYear": 976,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 1
+    }
   },
   {
     "name": "Vidhya Vidhai",
     "url": "https://vidhyavidhai.org",
     "icon": "https://favicons.githubusercontent.com/vidhyavidhai.org",
     "slug": "vidhya-vidhai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1178,
@@ -143,16 +156,18 @@
     "timeWeek": 1151,
     "timeMonth": 1132,
     "timeYear": 1178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 1
+    }
   },
   {
     "name": "Alag Soch",
     "url": "https://alagsoch.org/",
     "icon": "https://favicons.githubusercontent.com/alagsoch.org",
     "slug": "alag-soch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,6 +176,8 @@
     "timeWeek": 952,
     "timeMonth": 932,
     "timeYear": 975,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 0
+    }
   }
 ]
