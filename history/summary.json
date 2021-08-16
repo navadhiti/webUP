@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/www.navadhiti.com",
     "slug": "navadhiti",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 1215,
-    "timeDay": 1282,
-    "timeWeek": 1256,
-    "timeMonth": 1239,
+    "timeDay": 1266,
+    "timeWeek": 1270,
+    "timeMonth": 1241,
     "timeYear": 1215,
     "dailyMinutesDown": {
       "2021-08-06": 106,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 965,
-    "timeDay": 938,
-    "timeWeek": 958,
-    "timeMonth": 963,
+    "timeDay": 970,
+    "timeWeek": 965,
+    "timeMonth": 965,
     "timeYear": 965,
     "dailyMinutesDown": {
       "2021-06-14": 56,
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1180,
-    "timeDay": 1196,
-    "timeWeek": 1189,
-    "timeMonth": 1182,
+    "timeDay": 1203,
+    "timeWeek": 1200,
+    "timeMonth": 1185,
     "timeYear": 1180,
     "dailyMinutesDown": {
       "2021-06-14": 56
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 962,
-    "timeDay": 938,
-    "timeWeek": 964,
-    "timeMonth": 954,
+    "timeDay": 940,
+    "timeWeek": 962,
+    "timeMonth": 955,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2021-06-14": 55
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 971,
-    "timeDay": 940,
-    "timeWeek": 948,
-    "timeMonth": 977,
+    "timeDay": 958,
+    "timeWeek": 953,
+    "timeMonth": 978,
     "timeYear": 971,
     "dailyMinutesDown": {
       "2021-06-14": 55
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1188,
-    "timeDay": 1172,
-    "timeWeek": 1192,
-    "timeMonth": 1186,
+    "timeDay": 1185,
+    "timeWeek": 1202,
+    "timeMonth": 1189,
     "timeYear": 1188,
     "dailyMinutesDown": {
       "2021-06-14": 54
@@ -133,8 +133,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 971,
-    "timeDay": 948,
-    "timeWeek": 962,
+    "timeDay": 915,
+    "timeWeek": 955,
     "timeMonth": 955,
     "timeYear": 971,
     "dailyMinutesDown": {
@@ -153,9 +153,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1176,
-    "timeDay": 1153,
-    "timeWeek": 1166,
-    "timeMonth": 1170,
+    "timeDay": 1164,
+    "timeWeek": 1171,
+    "timeMonth": 1168,
     "timeYear": 1176,
     "dailyMinutesDown": {
       "2021-06-14": 53
@@ -172,11 +172,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1000,
-    "timeDay": 944,
-    "timeWeek": 949,
-    "timeMonth": 963,
-    "timeYear": 1000,
+    "time": 999,
+    "timeDay": 937,
+    "timeWeek": 947,
+    "timeMonth": 960,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2021-06-14": 27
     }
